@@ -8,7 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## Live links (replace with your own)
 - Leaflet Map https://handsondataviz.github.io/leaflet-storymaps-with-google-sheets/
-- Google Sheets template https://docs.google.com/spreadsheets/d/14fupCDKGnaRGXnJ_XH666u6IDHqDRAuum6etENb8Mm8/edit#gid=70869349
+- Google Sheets template https://docs.google.com/spreadsheets/d/11U8rb0KynBVPvaGbfijGmFV1clBeZpzhC6aLy_anfyI/edit#gid=0
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
 
 #### Geocode your address data with Google Sheets add-on
